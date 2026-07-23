@@ -9,7 +9,7 @@
 - 🏆 **IMC Prosperity 4:** #755 / 18,803 teams worldwide (top 4%), 11th in Italy
 
 ### What I care about
-The hard part of ML isn't the notebook backtest, it's what breaks when the distribution shifts. Markets are the extreme version of that problem: non-stationary, adversarial, and scored in P&L, not in a paper. That's where I point the toolkit.
+Financial markets are the ultimate test for statistical inference. I am passionate about finding faint, non-stationary signals hidden within massive amounts of noisy data. My goal is to bridge the gap between pure mathematical theory and applied quantitative research, building predictive models and algorithmic strategies that are mathematically sound, rigorously backtested, and risk-managed.
 
 ### Featured projects (with BlackSwan Quants)
 | Project | What it is |
