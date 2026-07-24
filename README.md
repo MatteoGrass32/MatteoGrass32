@@ -17,7 +17,7 @@ Financial markets are the ultimate test for statistical inference. I am passiona
 | [intraday-momentum](https://github.com/blackswan-quants/intraday-momentum) | Reproducible intraday momentum strategy on SPY: 8-year backtest + day-of-the-week extension |
 
 ### Toolbox
-`Python (pandas · NumPy · scikit-learn)` · `C` · `MATLAB` · `R` · learning `C++` · Git · QuantConnect · LaTeX
+`Python (pandas · NumPy · scikit-learn)` · `C` · `MATLAB` · `R`  · Git · QuantConnect · LaTeX
 
 ### Reach me
 [LinkedIn](https://www.linkedin.com/in/matteograssini04) · matteo.grassini04@gmail.com · Fluent English (TOEIC 985/990)
