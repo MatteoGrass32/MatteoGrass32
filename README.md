@@ -9,7 +9,7 @@
 - 🏆 **IMC Prosperity 4:** #755 / 18,803 teams worldwide (top 4%), 11th in Italy
 
 ### What I care about
-Financial markets are the ultimate test for statistical inference. I am passionate about finding faint, non-stationary signals hidden within massive amounts of noisy data. My goal is to bridge the gap between pure mathematical theory and applied quantitative research, building predictive models and algorithmic strategies that are mathematically sound, rigorously backtested, and risk-managed.
+Financial markets are the ultimate test for statistical inference. I am passionate about finding faint, non-stationary signals hidden within massive amounts of noisy data.
 
 ### Featured projects (with BlackSwan Quants)
 | Project | What it is |
