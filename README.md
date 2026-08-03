@@ -1,6 +1,6 @@
 ## Hi, I'm Matteo 👋
 
-**Mathematical Engineer** turning machine learning on real, noisy data into an edge in **quantitative finance**.
+**Mathematical Engineer** 
 
 - 🎓 MSc **Quantitative Finance** @ Politecnico di Milano (from Sep 2026) · BSc Mathematical Engineering, 102/110
 - 📈 **Quantitative Researcher** @ [BlackSwan Quants](https://github.com/blackswan-quants), PoliMi's quant research club
