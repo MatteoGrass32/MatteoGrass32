@@ -4,7 +4,7 @@
 
 - 🎓 MSc **Quantitative Finance** @ Politecnico di Milano (from Sep 2026) · BSc Mathematical Engineering, 102/110
 - 📈 **Quantitative Researcher** @ [BlackSwan Quants](https://github.com/blackswan-quants), PoliMi's quant research club
-- 🤖 **AI Engineer Intern** @ NEOCAD, bringing ML models to production on real, noisy industrial data
+- 🤖 ex **AI Engineer Intern** @ NEOCAD, bringing ML models to production on real, noisy industrial data
 - 🇪🇺 EU citizen
 - 🏆 **IMC Prosperity 4:** #755 / 18,803 teams worldwide (top 4%), 11th in Italy
 
